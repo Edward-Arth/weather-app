@@ -1,1 +1,1 @@
-# weather-app
+In this project, I practice asynchronous Javascript and fetching data from an API.
